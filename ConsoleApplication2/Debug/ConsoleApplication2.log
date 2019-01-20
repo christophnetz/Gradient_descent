@@ -3,6 +3,6 @@ c:\users\p285100\desktop\machine learning\gradient_descent\consoleapplication2\g
 c:\users\p285100\desktop\machine learning\gradient_descent\consoleapplication2\gradient_descent.cpp(46): warning C4018: '<': signed/unsigned mismatch
 c:\users\p285100\desktop\machine learning\gradient_descent\consoleapplication2\gradient_descent.cpp(67): warning C4018: '<': signed/unsigned mismatch
 c:\users\p285100\desktop\machine learning\gradient_descent\consoleapplication2\gradient_descent.cpp(71): warning C4018: '<': signed/unsigned mismatch
-c:\users\p285100\desktop\machine learning\gradient_descent\consoleapplication2\gradient_descent.cpp(82): warning C4018: '<': signed/unsigned mismatch
-c:\users\p285100\desktop\machine learning\gradient_descent\consoleapplication2\gradient_descent.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\p285100\desktop\machine learning\gradient_descent\consoleapplication2\gradient_descent.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\p285100\desktop\machine learning\gradient_descent\consoleapplication2\gradient_descent.cpp(111): warning C4018: '<': signed/unsigned mismatch
   ConsoleApplication2.vcxproj -> C:\Users\P285100\Desktop\Machine Learning\Gradient_descent\Debug\ConsoleApplication2.exe
